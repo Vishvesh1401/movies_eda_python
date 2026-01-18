@@ -48,4 +48,4 @@ to preserve the original data structure.
 
 ## Project Scope
 This project is limited to **EDA only**.  
-No visualizations or machine learning techniques are applied at this stage.
+Includes basic visualisation analysis using various python libraries.
